@@ -1,0 +1,27 @@
+body {
+    background-color: #E0FFFF;
+}
+hr {
+    background-color: bisque;
+    height: 2px;
+    width: 620px;
+    margin: 0 25% 0 25%;
+    
+}
+p{font-family:Verdana;}
+h1 {color: red;
+    margin: 25px;
+    margin-bottom: 0;
+    font-size: 65px;
+}
+h2 {margin-left: 125px;
+    margin-top: 0;
+    font-size: 45px;
+color:darkgrey;}
+.main {display: flex;
+flex-wrap: nowrap;
+margin-top: 20px;}
+.redbook {text-align: center;}
+.about {font-family:sans-serif;
+font-size: 20pt;}
+button{color:green}
